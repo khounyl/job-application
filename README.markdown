@@ -42,7 +42,7 @@ You can see more of my work and who I am here:
 - My personal website: [http://reload.dk](http://reload.dk)
 - StackOverflow profile, Twitter account...
 
-## My faviorite animated gif
+## My favorite animated gif
 
 [Reviewing code I wrote last year](http://thecodinglove.com/post/95981621440/reviewing-code-i-wrote-last-year)
 
